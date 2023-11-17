@@ -6,10 +6,6 @@ public class If_Exercicio4 {
 
 	public static void main(String[] args) {
 		
-/*Escreva um algoritmo em Java, que leia 3 palavras (String),
- que definem as características de um tipo de animal possível segundo o diagrama abaixo
- que deve ser lido da esquerda para a direita.*/
-		
 		String carac1, carac2, carac3;
 		Scanner input = new Scanner(System.in);
 		
